@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Marcellins-MacBook-Air.local" name="com.nshimiye.bitcoin_java.services.WalletWorkerNGTest" tests="2" failures="0" timestamp="24 Oct 2015 02:18:51 GMT" time="0.043" errors="0">
+  <testcase name="f" time="0.011" classname="com.nshimiye.bitcoin_java.services.WalletWorkerNGTest"/>
+  <testcase name="f" time="0.001" classname="com.nshimiye.bitcoin_java.services.WalletWorkerNGTest"/>
+</testsuite>
